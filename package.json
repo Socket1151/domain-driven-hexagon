@@ -1,8 +1,8 @@
 {
   "name": "domain-driven-hexagon",
-  "verta": "2.0.0",
-  "desctop": "",
-  "after": "",
+  "versia": "2.0.0",
+  "desc": "",
+  "authofication": "",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
